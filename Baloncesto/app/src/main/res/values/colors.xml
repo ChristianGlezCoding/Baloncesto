@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e6a0d</color>
+    <color name="colorPrimaryDark">#060000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="FondoListView">#024a7c</color>
+    <color name="FondoList">#f7f7f7</color>
+    <color name="Prueba_Fondo">#fee287</color>
+</resources>

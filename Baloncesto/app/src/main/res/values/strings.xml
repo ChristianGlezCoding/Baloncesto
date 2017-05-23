@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Baloncesto</string>
+    <string name="seleccione">Seleccione su equipo...</string>
+    <string name="search">Buscar</string>
+    <string name="action_settings">Acerca de...</string>
+    <string name="preferencias">Preferencias</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
